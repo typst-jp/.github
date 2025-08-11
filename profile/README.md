@@ -1,16 +1,16 @@
 <div align="center">
   <img alt="" src="https://avatars.githubusercontent.com/u/172375917" width="128" height="128">
-  <h1>Typst Japan Community</h1>
+  <h1>Typst Japanese Community</h1>
 </div>
 
 [Typst]: https://typst.app/
-[Typst Japan Community]: https://github.com/typst-jp/
+[Typst Japanese Community]: https://github.com/typst-jp/
 
-[Typst Japan Community]へようこそ！
+[Typst Japanese Community]へようこそ！
 
 [Typst]は、アカデミック・ライティング用途を念頭に開発された、TeXなどの今までのシステムを覆しうる革新的で多機能な組版エンジンです。もちろん、学術論文に限らず、雑誌や書籍の組版にも適しています。
 
-[Typst Japan Community]は、[Typst]の日本語に関係するプロジェクトの長期的なメンテナンスのための非公式Organizationです。有志のTypstユーザーによって運営されています。
+[Typst Japanese Community]は、[Typst]の日本語に関係するプロジェクトの長期的なメンテナンスのための非公式Organizationです。有志のTypstユーザーによって運営されています。
 
 ## 🤝 貢献する
 
@@ -18,7 +18,7 @@
 
 ## 🚚 移譲する
 
-あなたのプロジェクトを[Typst Japan Community]に移譲すると、より多くの人に利用してもらい、コミュニティ主導の長期的なメンテナンスが可能になります。
+あなたのプロジェクトを[Typst Japanese Community]に移譲すると、より多くの人に利用してもらい、コミュニティ主導の長期的なメンテナンスが可能になります。
 
 [Typst Community]: https://github.com/typst-community/
 
